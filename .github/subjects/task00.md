@@ -1,6 +1,5 @@
 # Task_00
-To validate your setup, you must create a file containing your login and nothing else.
-
+To validate your setup, you must create a file containing your login and nothing else
 > [!IMPORTANT]
 > Always run `git pull` before commiting/pushing your solutions.
 
